@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=SistemaTaxis
+comment1.params=capacidad
+comment1.target=SistemaTaxis(int)
+comment10.params=
+comment10.target=Pasajero\ getPasajero()
+comment11.params=
+comment11.target=Taxi\ getTaxi()
+comment12.params=
+comment12.target=java.lang.String\ getDestino()
+comment2.params=taxi
+comment2.target=void\ agregarTaxi(Taxi)
+comment3.params=
+comment3.target=void\ asignarTaxi()
+comment4.params=pasajero
+comment4.target=void\ insertarPasajero(Pasajero)
+comment5.params=origen\ destino
+comment5.target=void\ agregarDestino(java.lang.String,\ java.lang.String)
+comment6.params=rutaArchivo
+comment6.target=void\ cargarTaxisDesdeCSV(java.lang.String)
+comment7.params=rutaArchivo
+comment7.target=void\ cargarPasajerosDesdeCSV(java.lang.String)
+comment8.params=rutaArchivo
+comment8.target=void\ cargarDestinosDesdeCSV(java.lang.String)
+comment9.params=
+comment9.target=void\ imprimirSistema()
+numComments=13

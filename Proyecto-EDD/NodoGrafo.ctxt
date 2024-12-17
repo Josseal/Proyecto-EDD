@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NodoGrafo
+comment1.params=dato
+comment1.target=NodoGrafo(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ getDato()
+comment3.params=dato
+comment3.target=void\ setDato(java.lang.Object)
+comment4.params=
+comment4.target=NodoGrafo\ getSiguiente()
+comment5.params=siguiente
+comment5.target=void\ setSiguiente(NodoGrafo)
+numComments=6

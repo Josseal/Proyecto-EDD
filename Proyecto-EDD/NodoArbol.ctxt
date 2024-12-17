@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=NodoArbol
+comment1.params=pasajero
+comment1.target=NodoArbol(Pasajero)
+comment2.params=
+comment2.target=Pasajero\ getPasajero()
+comment3.params=pasajero
+comment3.target=void\ setPasajero(Pasajero)
+comment4.params=
+comment4.target=NodoArbol\ getIzquierdo()
+comment5.params=izquierdo
+comment5.target=void\ setIzquierdo(NodoArbol)
+comment6.params=
+comment6.target=NodoArbol\ getDerecho()
+comment7.params=derecho
+comment7.target=void\ setDerecho(NodoArbol)
+comment8.params=
+comment8.target=int\ getAltura()
+comment9.params=altura
+comment9.target=void\ setAltura(int)
+numComments=10

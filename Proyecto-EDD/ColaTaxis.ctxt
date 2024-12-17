@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ColaTaxis
+comment1.params=capacidad
+comment1.target=ColaTaxis(int)
+comment10.params=rutaArchivo
+comment10.target=void\ cargarTaxisDesdeCSV(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=boolean\ estaLlena()
+comment3.params=
+comment3.target=boolean\ estaVacia()
+comment4.params=taxi
+comment4.target=boolean\ agregar(Taxi)
+comment5.params=taxi
+comment5.target=void\ agregarTaxi(Taxi)
+comment6.params=
+comment6.target=Taxi\ asignar()
+comment7.params=
+comment7.target=void\ imprimirTaxis()
+comment8.params=
+comment8.target=Taxi\ getTaxi()
+comment9.params=
+comment9.target=Taxi\ quitar()
+numComments=12
